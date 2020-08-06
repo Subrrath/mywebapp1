@@ -13,6 +13,7 @@
 	<li><a href="register.html"> Click to register</a></li>
 	<li><a href="details.html"> Click to view Details</a></li>
 	<li><a href="jankin.html"> Click to jenkin Details</a></li>
+  <li><a href="jankin.html"> Click to jenkinwebapp Details</a></li>
 </ul>
 
 </body>
